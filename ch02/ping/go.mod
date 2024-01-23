@@ -1,3 +1,3 @@
 module github.com/PacktPublishing/Network-Automation-with-Go/ch02/ping
 
-go 1.17
+go 1.21.3
